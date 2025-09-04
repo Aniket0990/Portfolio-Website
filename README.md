@@ -39,9 +39,10 @@ Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-# Email - aniketshelke554@gmail.com
+**Email** - aniketshelke554@gmail.com
 
-# Linkedin - https://www.linkedin.com/in/shelkeaniket/
+**Linkedin** - https://www.linkedin.com/in/shelkeaniket/
 
+**Instagram** - https://www.instagram.com/heyanikets/
 
-
+**Portfolio** - https://aniketshelke-portfolio.netlify.app/
