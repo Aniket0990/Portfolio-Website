@@ -2,7 +2,7 @@
 - A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact information.
 - Features a responsive design for all devices, smooth animations, and an interactive user interface to create an engaging browsing experience.
 
-🔍- [Visit Porftfolio Now](https://aniketshelke-portfolio.netlify.app/)
+🔍- [Visit Portfolio Now](https://aniketshelke-portfolio.netlify.app/)
 
 # Tech Stack
 - HTML
