@@ -8,8 +8,8 @@
         "icon": "https://img.icons8.com/color/48/spring-logo.png"
     },
     {
-        "name": "SQL",
-        "icon": "https://img.icons8.com/fluency/48/database--v1.png"
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
         "name": "HTML5",
@@ -22,6 +22,14 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/fluency/48/database--v1.png"
     },
     {
         "name": "MySQL",
@@ -50,22 +58,5 @@
     {
         "name": "VS Code",
         "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     }
 ]
