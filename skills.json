@@ -12,6 +12,10 @@
         "icon": "https://img.icons8.com/color/48/000000/typescript.png"
     },
     {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -20,8 +24,8 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
         "name": "Java",
@@ -30,10 +34,6 @@
     {
         "name": "Spring Boot",
         "icon": "https://img.icons8.com/color/48/spring-logo.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
         "name": "SQL",

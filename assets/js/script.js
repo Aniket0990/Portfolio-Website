@@ -37,7 +37,7 @@ $(document).ready(function () {
             scrollTop: $($(this).attr('href')).offset().top - 60,
         }, 500, 'linear')
     });
-    
+
     // <!-- tilt js effect starts -->
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
         max: 10,
@@ -155,30 +155,38 @@ fetchData("projects").then(data => {
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
     origin: 'top',
-    distance: '80px',
-    duration: 1000,
+    distance: '40px',
+    duration: 300,
     reset: true
 });
 
 /* SCROLL HOME */
-srtop.reveal('.home .content h3', { delay: 200 });
-srtop.reveal('.home .content p', { delay: 200 });
-srtop.reveal('.home .content .btn', { delay: 200 });
+srtop.reveal('.home .content h3', { delay: 150 });
+srtop.reveal('.home .content p', { delay: 150 });
+srtop.reveal('.home .content .btn', { delay: 150 });
 
 /* SCROLL ABOUT */
-srtop.reveal('.about .content h3', { delay: 200 });
-srtop.reveal('.about .content .tag', { delay: 200 });
-srtop.reveal('.about .content p', { delay: 200 });
-srtop.reveal('.about .content .box-container', { delay: 200 });
-srtop.reveal('.about .content .resumebtn', { delay: 200 });
+srtop.reveal('.about .content h3', { delay: 150 });
+srtop.reveal('.about .content .tag', { delay: 150 });
+srtop.reveal('.about .content p', { delay: 150 });
+srtop.reveal('.about .content .box-container', { delay: 150 });
+srtop.reveal('.about .content .resumebtn', { delay: 150 });
 
 /* SCROLL SKILLS */
-srtop.reveal('.skills .container', { interval: 200 });
-srtop.reveal('.skills .container .bar', { delay: 400 });
+srtop.reveal('.skills .container', { interval: 150 });
+srtop.reveal('.skills .container .bar', { delay: 150 });
+
+/* SCROLL EDUCATION */
+srtop.reveal('.education .box-container', { delay: 150 });
+srtop.reveal('.education .box', { interval: 150 });
+
+/* SCROLL EXPERIENCE */
+srtop.reveal('.experience .timeline', { delay: 150 });
+srtop.reveal('.experience .container', { interval: 150 });
 
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
+srtop.reveal('.work .box', { interval: 150 });
 
 /* SCROLL CONTACT */
-srtop.reveal('.contact .container', { delay: 400 });
-srtop.reveal('.contact .container .form-group', { delay: 400 });
+srtop.reveal('.contact .container', { delay: 150 });
+srtop.reveal('.contact .container .form-group', { delay: 150 });
