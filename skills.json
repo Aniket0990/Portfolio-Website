@@ -1,15 +1,15 @@
 [
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "Spring Boot",
-        "icon": "https://img.icons8.com/color/48/spring-logo.png"
+        "name": "NextJS",
+        "icon": "https://img.icons8.com/fluency/48/nextjs.png"
     },
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
     },
     {
         "name": "HTML5",
@@ -22,6 +22,14 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/spring-logo.png"
     },
     {
         "name": "Bootstrap",
