@@ -137,11 +137,11 @@ function showProjects(projects) {
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
         origin: 'top',
-        distance: '80px',
-        duration: 1000,
-        reset: true
+        distance: '40px',
+        duration: 300,
+        reset: false
     });
-
+    srtop.reveal('.box');
 }
 
 fetchData().then(data => {
