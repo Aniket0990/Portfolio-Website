@@ -72,7 +72,7 @@ const Home = () => {
         <img
           ref={tiltRef}
           draggable="false"
-          className="tilt w-[22rem] min-[600px]:w-[24rem] lg:w-[32rem] xl:w-[38rem] max-w-[80vw] ml-0 mr-auto min-[600px]:ml-auto min-[600px]:mr-0 mt-0 rounded-full shadow-[0_2px_30px_rgba(0,0,0,0.3)] cursor-pointer hover:shadow-[0_10px_50px_rgba(0,0,0,0.5)] transition-shadow duration-300 object-cover aspect-square"
+          className="tilt w-[22rem] min-[600px]:w-[24rem] lg:w-[36rem] xl:w-[42rem] max-w-[80vw] ml-0 mr-auto min-[600px]:ml-auto min-[600px]:mr-0 mt-0 rounded-full shadow-[0_2px_30px_rgba(0,0,0,0.3)] cursor-pointer hover:shadow-[0_10px_50px_rgba(0,0,0,0.5)] transition-shadow duration-300 object-cover aspect-square"
           src="/assets/images/aniket1.jpg"
           alt="Aniket Shelke"
         />
