@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+  --font-nunito: "Nunito", sans-serif;
+}
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: background 0.2s linear, color 0.2s linear, box-shadow 0.2s linear, transform 0.3s linear;
+  }
+
+  html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: #edf1fa;
+    font-family: var(--font-poppins);
+  }
+
+  *::selection {
+    background: #2b3dda;
+    color: #fff;
+  }
+
+  ::-webkit-scrollbar {
+    width: 0.8rem;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgb(235, 202, 245);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #420177;
+  }
+
+  section {
+    @apply p-[1rem_4%] mt-[5rem] md:p-[1rem_5%] md:mt-[5.5rem] lg:p-[1.2rem_5%] lg:mt-[6rem] xl:p-[1.5rem_6%] xl:mt-0 scroll-mt-[6rem];
+  }
+}
