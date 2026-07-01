@@ -16,7 +16,6 @@ const About = () => {
   return (
     <section className="bg-[#e5ecfb] lg:min-h-screen" id="about">
       <h2 className="heading text-[3.5rem] text-[#202020] font-extrabold text-center"><i className="fas fa-user-alt"></i> About <span className="text-[#7303a7]">Me</span></h2>
-
       <div className="flex flex-row gap-[2rem] flex-wrap p-[0.5rem] md:p-[2.5rem] mb-[7rem] md:mb-0">
         <div className="text-left flex-[1_1_20rem] mt-[2rem] md:mt-0">
           <img ref={tiltRef} draggable="false" className="tilt ml-0 mr-auto w-[70%] min-[400px]:w-[22rem] md:mt-[2rem] md:w-[30rem] lg:w-[50rem] h-auto rounded-[5%] shadow-[0_5px_10px_rgba(0,0,0,0.6)] transition-all duration-300 cursor-pointer hover:mix-blend-normal" src="/assets/images/aniket.jpg" alt="" />
@@ -24,7 +23,6 @@ const About = () => {
         <div className="flex-[1_1_45rem] p-[1rem] md:p-[2rem]">
           <h3 className="text-[#1b1b1b] text-[2.5rem]">I'm Aniket Shelke</h3>
           <div className="text-[1.4rem] text-[#020133] font-semibold mt-[1rem]">FullStack Developer</div>
-
           <p className="text-[1.5rem] mt-[1.5rem] font-nunito font-semibold normal-case">
             - I am currently working as a Frontend Developer at TechTech, where I focus on building modern, responsive, and
             user-friendly web applications. My role involves developing clean and scalable user interfaces while ensuring
