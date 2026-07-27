@@ -21,7 +21,7 @@ const About = () => {
           <img ref={tiltRef} draggable="false" className="tilt ml-0 mr-auto w-[70%] min-[400px]:w-[22rem] md:mt-[2rem] md:w-[30rem] lg:w-[50rem] h-auto rounded-[5%] shadow-[0_5px_10px_rgba(0,0,0,0.6)] transition-all duration-300 cursor-pointer hover:mix-blend-normal" src="/assets/images/aniket.jpg" alt="" />
         </div>
         <div className="flex-[1_1_45rem] p-[1rem] md:p-[2rem]">
-          <h3 className="text-[#1b1b1b] text-[2.5rem]">I'm Aniket Shelke</h3>
+          <h3 className="text-[#1b1b1b] text-[2.5rem]">I'm Aniket Shelke.</h3>
           <div className="text-[1.4rem] text-[#020133] font-semibold mt-[1rem]">FullStack Developer</div>
           <p className="text-[1.5rem] mt-[1.5rem] font-nunito font-semibold normal-case">
             - I am currently working as a Frontend Developer at TechTech, where I focus on building modern, responsive, and
