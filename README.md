@@ -5,13 +5,12 @@
 🔍- [Visit Portfolio Now](https://aniketshelke-portfolio.netlify.app/)
 
 # Tech Stack
-- HTML
-- CSS
-- JS
-- jQuery
+- ReactJS
+- JavaScript (JSX)
+- Tailwind CSS
 
 # Extras :
-Tilt.js, Scroll Reveal, Font Awesome and JSON
+Partical.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 # Demo
 
