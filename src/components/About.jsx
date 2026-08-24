@@ -53,7 +53,7 @@ const About = () => {
           </div>
 
           <div className="mt-[3rem]">
-            <a href="https://drive.google.com/file/d/1ImGTxQ9l3FvXS8wjVEcew5rjkKNqFcer/view?usp=drive_link"
+            <a href="https://drive.google.com/file/d/1PJmb60fxoTgYuEcCRKRhH0NY6vyS9hWF/view?usp=sharing"
               target="_blank" rel="noreferrer" className="inline-block p-[1.7rem_3rem] rounded-[0.5em] transition-all duration-300 text-[#fff] bg-[#2506ad] shadow-[0_5px_10px_rgba(48,68,247,0.6)] font-nunito hover:bg-[#1a047e] group w-max no-underline">
               <span className="font-semibold text-[1.8rem] tracking-[0.1rem]">Resume</span>
               <i className="fas fa-chevron-right ml-[0.3rem] text-[1.2rem] transition-transform duration-300 group-hover:translate-x-[5px]"></i>

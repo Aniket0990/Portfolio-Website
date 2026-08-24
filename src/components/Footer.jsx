@@ -21,7 +21,7 @@ const Footer = () => {
 
         <div className="flex-[1_1_25rem] m-[1rem] md:m-[1.5rem]">
           <h3 className="text-[2.5rem] text-[#fff] pb-[0.5rem] font-normal">Contact Info</h3>
-          <p className="text-[1.5rem] text-[#ccc] py-[0.5rem] md:py-[0.7rem] normal-case"><i className="fas fa-phone text-[#ffae00] pr-[1rem]"></i>+91 9503923447</p>
+          <p className="text-[1.5rem] text-[#ccc] py-[0.5rem] md:py-[0.7rem] normal-case"><i className="fas fa-phone text-[#ffae00] pr-[1rem]"></i>+91 9112776061</p>
           <p className="text-[1.5rem] text-[#ccc] py-[0.5rem] md:py-[0.7rem] normal-case"><i className="fas fa-envelope text-[#ffae00] pr-[1rem]"></i>aniketshelke554@gmail.com</p>
           <p className="text-[1.5rem] text-[#ccc] py-[0.5rem] md:py-[0.7rem] normal-case"><i className="fas fa-map-marked-alt text-[#ffae00] pr-[1rem]"></i>Pune, India-411038</p>
           <div className="flex flex-wrap py-[0.5rem]">
